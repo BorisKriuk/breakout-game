@@ -1,0 +1,16 @@
+# define window parameters
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+COLS = 6
+ROWS = 6
+FPS = 60
+
+# define colors
+BG = (234, 218, 184)
+BLOCK_RED = (242, 85, 96)
+BLOCK_GREEN = (86, 174, 87)
+BLOCK_BLUE = (69, 177, 232)
+PADDLE_COL = (142, 135, 123)
+PADDLE_OUTLINE = (100, 100, 100)
+TEXT_COL = (78, 81, 139)
+
